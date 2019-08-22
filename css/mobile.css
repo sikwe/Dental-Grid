@@ -9,6 +9,10 @@
    grid-gap: 1.2rem;
 }
 
+#main-nav .logo {
+   width: 90px;
+}
+
 #main-nav ul, #main-nav .logo {
    justify-self: center;
 }
@@ -39,6 +43,7 @@
 
    .page-container {
       grid-template-columns: 1fr;
+
    }
 
 
